@@ -2,8 +2,8 @@
 
 Bài tập thực hành CT484, HK1 2023-2024
 
-**MSSV**: ...
+**MSSV**: B2014633
 
-**Họ tên SV**: ...
+**Họ tên SV**: Đoàn Hữu Vĩnh
 
-**Nhóm học phần**: ...
+**Nhóm học phần**: CT48401
